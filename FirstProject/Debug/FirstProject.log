@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Work\FirstProject\main.cpp(132): warning C4715: 'GetArraySum': not all control paths return a value
+  FirstProject.vcxproj -> C:\Work\FirstProject\Debug\FirstProject.exe
