@@ -1,1 +1,2 @@
 C:\Work\FirstProject\Debug\FirstProject.exe
+C:\Work\C-\FirstProject\Debug\FirstProject.exe
